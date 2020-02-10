@@ -1,4 +1,4 @@
-# slash-effect
+# Slash-effect
 slash effect project demo in godot
 this was made possible after studying the Alex Vlachos GDC 2010 presentation power point, available at: http://bit.ly/ValveL4D2
 
